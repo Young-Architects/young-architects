@@ -3,7 +3,7 @@ import About from '../component/About';
 import Footer from '../component/Footer';
 import Hero from '../component/Hero';
 import Navbar from '../component/Navbar';
-import Service from '../component/Service';
+import Service from '../component/service/Service';
 import Work from '../component/Work';
 
 function Home() {
